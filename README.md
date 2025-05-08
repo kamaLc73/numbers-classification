@@ -23,8 +23,8 @@ Cette application permet de dessiner des chiffres à la main et d'utiliser un mo
 1. Clone le dépôt :
 
 ```bash
-git clone https://github.com/kamalC73/number-classification.git
-cd number-classification 
+git clone https://github.com/kamalC73/numbers-classification.git
+cd numbers-classification 
 ```
 
 2. Crée un environnement virtuel (optionnel mais recommandé) :
